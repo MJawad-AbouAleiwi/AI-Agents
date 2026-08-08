@@ -1,0 +1,6 @@
+smolagents
+gradio
+requests
+pytz
+pyyaml
+duckduckgo-search
