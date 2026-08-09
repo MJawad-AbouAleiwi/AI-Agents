@@ -4,11 +4,11 @@ This repository contains two companion notebooks demonstrating how to build agen
 
 ## Contents
 
-### 1. `Agents_LlamaIndex.ipynb` - Using Agents in LlamaIndex
+### 1. Agents_LlamaIndex.ipynb - Using Agents in LlamaIndex
 
 This notebook focuses on building and using agents in LlamaIndex.
 
-### 2. `Agentic_Workflows_LlamaIndex.ipynb` - Creating Agentic Workflows
+### 2. Agentic_Workflows_LlamaIndex.ipynb - Creating Agentic Workflows
 
 This notebook introduces LlamaIndex's Workflow framework from the ground up.
 
