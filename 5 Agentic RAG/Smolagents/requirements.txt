@@ -1,0 +1,8 @@
+smolagents
+litellm
+datasets
+langchain-core
+langchain-community
+rank_bm25
+huggingface_hub
+duckduckgo-search

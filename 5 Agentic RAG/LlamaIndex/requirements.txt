@@ -1,0 +1,6 @@
+llama-index-core
+llama-index-llms-ollama
+llama-index-retrievers-bm25
+llama-index-tools-duckduckgo
+datasets
+huggingface_hub

@@ -1,0 +1,8 @@
+langgraph
+langchain-core
+langchain-community
+langchain-ollama
+rank_bm25
+datasets
+huggingface_hub
+duckduckgo-search
