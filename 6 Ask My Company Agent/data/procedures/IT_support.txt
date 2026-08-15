@@ -1,0 +1,34 @@
+IT SUPPORT PROCEDURE
+Owner: IT Helpdesk
+
+1. Submitting a Ticket
+All IT issues are submitted through the IT Helpdesk portal, not by direct
+message to IT staff, so requests can be tracked and prioritized correctly.
+
+2. Priority Levels and Response Times
+- Critical (system down, security incident): response within 30 minutes,
+  24/7 via the emergency hotline
+- High (blocking daily work, e.g. cannot log in): response within 4
+  business hours
+- Medium (partial functionality issue): response within 1 business day
+- Low (feature request, minor annoyance): response within 3 business days
+
+3. Common Self-Service Options
+Password resets, VPN reconnects, and software installs from the approved
+catalog can be completed instantly through the IT Self-Service Portal
+without opening a ticket.
+
+4. Hardware Issues
+For a malfunctioning company device, open a ticket with "Hardware" as the
+category. IT will arrange a loaner device within 1 business day for High
+or Critical priority hardware failures.
+
+5. After-Hours Support
+Only Critical issues are supported after standard business hours (9am–6pm,
+Mon–Fri). Use the emergency hotline listed on the IT intranet page.
+
+6. Escalation
+If a ticket has not been addressed within its target response time, reply
+to the ticket with "ESCALATE" or contact the IT manager directly.
+
+Questions: it-helpdesk@company.example

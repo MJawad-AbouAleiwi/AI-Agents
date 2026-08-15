@@ -1,0 +1,37 @@
+REMOTE WORK POLICY
+Effective Date: January 1, 2025
+Owner: Human Resources
+
+1. Domestic Remote Work
+Employees may work remotely from any location within their home country
+without prior approval, provided they remain reachable during core hours
+(10am–3pm in their local team's primary timezone) and maintain a stable
+internet connection.
+
+2. International Remote Work
+Working remotely from another country requires prior written approval from
+both HR and Legal, due to tax residency, payroll, and work-visa
+implications. Submit requests at least 3 weeks before travel via the HR
+portal's "International Remote Work Request" form.
+
+- Trips of 30 consecutive days or fewer are generally approved if the
+  employee's role has no data residency restrictions.
+- Trips longer than 30 consecutive days require additional review and may
+  affect the employee's tax and benefits status; approval is not guaranteed.
+- Employees may not work from a country under active US/EU trade sanctions.
+
+3. Equipment and Security
+Remote employees must use company-issued devices with full-disk encryption
+and must connect via the company VPN when accessing internal systems.
+Working from public Wi-Fi without VPN is not permitted.
+
+4. Fully Remote Roles
+Roles explicitly designated "remote-first" in the job description follow
+this same policy for international travel, but do not require any approval
+for domestic remote work.
+
+5. Manager Discretion
+Managers may require specific in-office days for team collaboration,
+communicated with at least 2 weeks notice.
+
+Questions: hr@company.example or legal@company.example (for international requests)

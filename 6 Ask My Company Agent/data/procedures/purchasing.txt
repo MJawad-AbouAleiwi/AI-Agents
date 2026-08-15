@@ -1,0 +1,38 @@
+PURCHASING PROCEDURE (EQUIPMENT & SOFTWARE)
+Owner: IT & Finance
+
+1. Standard Equipment (laptops, monitors, peripherals)
+Employees requesting standard-issue equipment (e.g. a laptop from the
+approved model list) submit a request through the IT portal. No separate
+Finance approval is needed if the item is on the pre-approved catalog and
+under $1,500.
+
+2. Non-Standard or High-Cost Equipment
+Requests for equipment not on the approved catalog, or costing over
+$1,500, require:
+  a. A brief business justification submitted with the IT request
+  b. Manager approval
+  c. IT review for security/compatibility compliance
+  Approval typically takes 3–5 business days.
+
+3. Preferred Vendors
+IT purchases hardware through preferred vendors only (see the internal
+vendor list) to ensure warranty and asset-tracking coverage. Employees
+should not personally purchase equipment for reimbursement except in
+approved exceptional cases (see step 4).
+
+4. Personal Purchase + Reimbursement (exceptions only)
+If pre-approved by IT and Finance in advance, an employee may buy equipment
+personally and submit it via the standard Expense Reimbursement process,
+with the itemized receipt and IT's written pre-approval attached.
+
+5. Software Purchases
+New software or SaaS subscriptions must go through IT for security review
+before purchase, regardless of cost, due to data-handling and licensing
+requirements. Submit via the "Software Request" form in the IT portal.
+
+6. Asset Return
+All company-purchased equipment must be returned to IT upon offboarding or
+role change where the equipment is no longer needed.
+
+Questions: it@company.example
