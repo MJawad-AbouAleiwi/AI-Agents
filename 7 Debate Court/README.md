@@ -13,13 +13,13 @@ An Advocate and Opponent argue a controversial claim with evidence, before deliv
       Evidence           Evidence
           │                 │
           └────────┬────────┘
-                    ↓
+                   ↓
                   Judge
-                    ↓
-           Weaknesses Found? ──No──> Final Verdict
-                    │Yes
-                    ↓
-             Re-debate
+                   ↓ 
+            Weaknesses Found? ──No──> Final Verdict
+                   │Yes
+                   ↓
+               Re-debate
 ```
 
 ## Setup
